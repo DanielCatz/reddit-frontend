@@ -6,7 +6,7 @@
 
 This project aims to be a complete reddit frontend written in React. At the moment it supports most of reddit's browsing features, but lacks certain features for user interaction, such as private messages or wiki pages.
 
-## [View live build](https://daniel-catz.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/d54858e6-3ea1-4e12-8a57-a134bf430d5d/deploy-status)](https://app.netlify.com/sites/jpf-reddit/deploys)
+## [View live build](https://daniel-catz.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/d54858e6-3ea1-4e12-8a57-a134bf430d5d/deploy-status)](https://app.netlify.com/sites/daniel-catz/deploys)
 
 ## Hosting
 
