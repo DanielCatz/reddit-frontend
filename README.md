@@ -1,18 +1,31 @@
->This is a portfolio project to demonstrate my skills and abilities in modern frontend web development.
 
-> \- *JuniPF*
 
 ---
 
-# junipf/reddit-frontend ![MPL 2.0](https://img.shields.io/github/license/junipf/reddit-frontend.svg)
+# DanielCatz / reddit-frontend ![MPL 2.0](https://img.shields.io/github/license/junipf/reddit-frontend.svg)
 
 This project aims to be a complete reddit frontend written in React. At the moment it supports most of reddit's browsing features, but lacks certain features for user interaction, such as private messages or wiki pages.
 
-## [View live build](https://jpf-reddit.netlify.com/) [![Netlify Status](https://api.netlify.com/api/v1/badges/d54858e6-3ea1-4e12-8a57-a134bf430d5d/deploy-status)](https://app.netlify.com/sites/jpf-reddit/deploys)
+## [View live build](https://daniel-catz.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/d54858e6-3ea1-4e12-8a57-a134bf430d5d/deploy-status)](https://app.netlify.com/sites/jpf-reddit/deploys)
 
 ## Hosting
 
+Create a netlify account where you can host(free)
+
+Create a [reddit apps](https://www.reddit.com/prefs/apps/). as an **Installed App**
+
+![image](https://user-images.githubusercontent.com/5420294/179425828-bacecad5-8740-4dd3-8b81-f88c9a7c0816.png)
+
+Register the reddit app and supply it with the client ID
+String under the Installed app
+
 To host your own instance of this project, you must supply the environment variables `REACT_APP_CLIENT_ID` and `REACT_APP_REDIRECT_URI` exactly as they appear in your [reddit apps](https://www.reddit.com/prefs/apps/). 
+
+
+![image](https://user-images.githubusercontent.com/5420294/179425653-d781ec15-a5f4-4eda-af5f-17fe17c94f39.png)
+
+![image](https://user-images.githubusercontent.com/5420294/179426018-634ad47d-ddf9-4d0d-ba65-e71bb8317b83.png)
+
 
 ---
 
