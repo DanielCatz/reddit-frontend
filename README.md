@@ -24,6 +24,8 @@ To host your own instance of this project, you must supply the environment varia
 
 ![image](https://user-images.githubusercontent.com/5420294/179425653-d781ec15-a5f4-4eda-af5f-17fe17c94f39.png)
 
+Set CI = false so warnings don't fail the build
+
 ![image](https://user-images.githubusercontent.com/5420294/179426018-634ad47d-ddf9-4d0d-ba65-e71bb8317b83.png)
 
 
