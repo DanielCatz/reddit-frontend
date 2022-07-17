@@ -9,4 +9,4 @@
   # Define which paths this specific [[headers]] block will cover.
   for = "/*"
     [headers.values]
-    Access-Control-Allow-Origin = "https://www.reddit.com/api/v1/access_token"
+    Access-Control-Allow-Origin = "*"
